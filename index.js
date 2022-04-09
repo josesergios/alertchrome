@@ -53,3 +53,5 @@ const browserProcess = Spawn('google-chrome', [
         await example();
         res.send("Solicitação realizada com sucesso");
     }, 2000)
+
+    
