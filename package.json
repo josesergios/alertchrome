@@ -1,0 +1,17 @@
+{
+  "name": "desafionodehuggyoficial",
+  "version": "1.0.0",
+  "description": "Desagio node da huggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sérgio Santos",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chrome-remote-interface": "^0.31.2",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {}
+}
